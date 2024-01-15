@@ -1,0 +1,43 @@
+.shop {
+    position: relative;
+    padding-bottom: 80px;
+}
+
+.shop-box {
+    width: 100%;
+    background: #F3F4F6;
+    padding-top: 88px;
+    padding-bottom: 88px;
+    padding-left: 97px;
+}
+
+.shop-title {
+    width: 585px;
+    color: var(--kq-black, #2C1500);
+    font-family: Montserrat;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px; /* 140% */
+    margin-bottom: 32px;
+}
+
+.shop-btn {
+    width: 152px;
+    border: 1px solid var(--akana-green, #156963);
+    background: var(--akana-green, #156963);
+    padding: 10px 20px;
+    color: var(--akana-bg, #FAFEFE);
+    text-align: center;
+    font-family: Nunito;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px; /* 142.857% */
+}
+
+.shop-img {
+    position: absolute;
+    bottom: 80px;
+    right: 130px;
+}
